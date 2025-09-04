@@ -1,4 +1,5 @@
 import 'package:dashboard_ui_1/prestation/widgets/pie_chart_widget.dart';
+import 'package:dashboard_ui_1/prestation/widgets/scheduled_widget.dart';
 import 'package:dashboard_ui_1/prestation/widgets/summary_details.dart';
 import 'package:flutter/cupertino.dart';
 

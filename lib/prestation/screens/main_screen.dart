@@ -21,10 +21,10 @@ class MainScreen extends StatelessWidget {
       body: SafeArea(
         child: Row(
           children: [
-            // Expanded(
-            //   flex: 2,
-            //   child: SizedBox(child: SideMenuWidget()),
-            // ),
+            Expanded(
+              flex: 2,
+              child: SizedBox(child: SideMenuWidget()),
+            ),
             // Expanded(
             //   flex: 7,
             //   child: DashboardWidget(),
